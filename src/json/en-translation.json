@@ -1,0 +1,36 @@
+[  
+  { 
+    "landing": {
+      "title": "CRYPTO-WORLD FOOTBAL CHAMPIONSHIP 2018",
+      "passion": "FOOTBALL, CRYPTO & A.R. PASSION", 
+      "section1Title": "WHO IS YOUR CRYPTO-DADDY ?",
+      "section1Text": "Fans of the most ranked teams in the world compete for the Crypto-World Soccer Championship. You rank up your favorite club by scoring crypto-goals.",
+      "section2Title": "AUGMENTED REALITY AWARDS",
+      "section2Text": "The Crypto Champions of the year will win Augmented Reality trophies. Fans will be able to place the AR trophy on surfaces using a mobile app (ARKit/ARCore).",
+      "section2Text2": "Seven Trophies will be produced yearly, for each Top Club of World, Europe, Asia, South America, North/Central America, Oceania and Africa",
+      "section3Title": "TOKEN PRIZES",
+      "section3Text": "You will receive back 2 BOLEIRO (BLR) tokens for each goal scored(when you score above 1 goal at once). Boleiros can be used in Dapp upcoming modules, AR Collectibles and predictions.",
+      "section3Text2": "BOLEIRO(BLR) is an ERC-20 Token, and a maximum of 45 millions will be generated.",
+      "section4Title": "EARN ETHEREUM IN PREDICTIONS",
+      "section4Text": "Do you really know football ? Earn Ether by predicting the right results of competitions/matches",
+      "section4Text2": "",
+      "section5Title": "MOST RANKED SOCCER CLUBS OF THE WORLD",
+      "section5Text": "About 200 of the most ranked teams from all continents compete for the top position of the Crypto-World. Every Year, 30 least voted teams will be replaced by new ranked clubs",
+      "loading": "Loading ",
+      "infoTitle": "MetaMask",
+      "infoText": "This DApp uses MetaMask. Click the logo to install it if necessary",
+      "infoTitle2": "Coming Predictions",
+      "infoText2": "EUROCUP",
+      "infoTitle3": "About",
+      "infoText3": "BLOCK-CHAMPS comes from the idea of joining our passion of Soccer, Crypto and AR",
+      "donationsTitle": "DONATIONS",
+      "donations": "We are a creative team from Brazil, passionate about Blockchain, A.R. and football. We are using a 'build-first' approach to our projects (zero-funded), so if you like our ideas and wish to helps us developing new cool features, we are happily accepting donations at this stage :)"    },
+    "menu": {
+      "menu1": "CRYPTO CHAMPIONSHIP",
+      "menu2": "PREDICTIONS",
+      "menu3": "CONTACT US",
+      "menu4": "ABOUT"
+    }
+  }  
+]
+

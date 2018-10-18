@@ -1,0 +1,279 @@
+[
+  {"id":"realma", "name":"Real Madrid", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"barcel", "name":"Barcelona", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"valenc", "name":"Valencia", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"atlmad", "name":"Atlético Madrid", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rbetis", "name":"Real Betis", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"manche", "name":"Manchester United", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"chelse", "name":"Chelsea", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"arsena", "name":"Arsenal", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"mancty", "name":"Manchester City", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"liverp", "name":"Liverpool", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"totten", "name":"Tottenham Hotspur", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"wstham", "name":"West Ham", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"bayern", "name":"Bayern Munich", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"cologn", "name":"FC Köln", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"boruss", "name":"Borussia Dortmund", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"schalk", "name":"Schalke 04", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"stuttg", "name":"VfB Stuttgart", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"juvent", "name":"Juventus", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"milanf", "name":"AC Milan", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"romafc", "name":"Roma", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"intern", "name":"Inter Milan", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"napoli", "name":"Napoli", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"laziof", "name":"Lazio", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+   
+  {"id":"pstger", "name":"Paris Saint-Germain", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"lyonfc", "name":"Lyon", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"monaco", "name":"Monaco", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"marsei", "name":"Olympique de Marseille", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rennai", "name":"Stade Rennais", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"rbsalz", "name":"Salzburg", "country":"at", "goals": 1,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rapidw", "name":"Rapid Wien", "country":"at", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"benfic", "name":"Benfica", "country":"pt", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"sporti", "name":"Sporting", "country":"pt", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"portof", "name":"Porto", "country":"pt", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+ 
+  {"id":"brugge", "name":"Brugge KV", "country":"be", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"anderl", "name":"Anderlecht", "country":"be", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"gentka", "name":"Gent", "country":"be", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"baself", "name":"Basel", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"youngb", "name":"Young Boys", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"luzern", "name":"Luzern", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"zurich", "name":"Zürich", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"aikfot", "name":"AIK", "country":"se", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"malmof", "name":"Malmö", "country":"se", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"dinaza", "name":"Dinamo Zagreb", "country":"hr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rijeka", "name":"Rijeka", "country":"hr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"olympi", "name":"Olympiacos", "country":"gr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"panath", "name":"Panathinaikos FC", "country":"gr", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"besikt", "name":"Beşiktaş", "country":"tr", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"fenerb", "name":"Fenerbahçe", "country":"tr", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"galata", "name":"Galatasaray", "country":"tr", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"sliema", "name":"Sliema Wanderers", "country":"mt", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"floria", "name":"Floriana", "country":"mt", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"zenith", "name":"Zenit Saint Petersburg", "country":"ru", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"cskafc", "name":"CSKA Moscow", "country":"ru", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"spartk", "name":"Spartak Moscow", "country":"ru", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"redsta", "name":"Red Star Belgrade", "country":"rs", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"partiz", "name":"Partizan", "country":"rs", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"kobenh", "name":"Copenhagen", "country":"dk", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"brondb", "name":"Brøndby", "country":"dk", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"legiaw", "name":"Legia Warsaw", "country":"pl", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"lechpo", "name":"Lech Poznań", "country":"pl", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"zalgir", "name":"Žalgiris", "country":"lt", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"suduva", "name":"Sūduva", "country":"lt", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"rosenb", "name":"Rosenborg ", "country":"no", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"moldef", "name":"Molde ", "country":"no", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"psvein", "name":"PSV Eindhoven", "country":"nl", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"ajaxam", "name":"Ajax", "country":"nl", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"feyeno", "name":"Feyenoord", "country":"nl", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"dynamo", "name":"Dynamo Kyiv", "country":"ua", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"shakht", "name":"Shakhtar Donetsk", "country":"ua", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"stjarn", "name":"Stjarnan", "country":"is", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"hjkhel", "name":"HJK Helsinki", "country":"fi", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"steaua", "name":"Steaua București", "country":"ro", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"clujfc", "name":"Cluj", "country":"ro", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"saraje", "name":"Sarajevo", "country":"ba", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"zeljez", "name":"Zeljeznicar", "country":"ba", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"celtic", "name":"Celtic", "country":"gbsct", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"ranger", "name":"Rangers", "country":"gbsct", "goals": 0, "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"sparta", "name":"Sparta Prague", "country":"cz", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"slapra", "name":"Slavia Prague", "country":"cz", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"ferenc", "name":"Ferencváros", "country":"hu", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"dundal", "name":"Dundalk", "country":"ie", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"corkct", "name":"Cork City", "country":"ie", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"differ", "name":"Differdange 03", "country":"lu", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"dudela", "name":"F91 Dudelange", "country":"lu", "goals": 0,  "region": "eur" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"sydney", "name":"Sydney FC", "country":"au", "goals": 1, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"melvic", "name":"Melbourne Victory", "country":"au", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"brisro", "name":"Brisbane Roar", "country":"au", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"wessid", "name":"Western Sydney Wanderers", "country":"au", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"goldco", "name":"Gold Coast United", "country":"au", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"adelun", "name":"Adelaide United ", "country":"au", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"auccty", "name":"Auckland City", "country":"nz", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"teamwe", "name":"Team Wellington", "country":"nz", "goals": 0, "region": "aus" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"kashima", "name":"Kashima Antlers", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"reddia", "name":"Urawa Red Diamonds", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"fronta", "name":"Kawasaki Frontale", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"sanfre", "name":"Sanfrecce Hiroshima", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"marino", "name":"Yokohama F. Marinos", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"cerezo", "name":"Cerezo Osaka", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"reysol", "name":"Kashiwa Reysol", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"tokyio", "name":"FC Tokyio", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"jeonbu", "name":"Jeonbuk Hyundai Motors", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"bluewi", "name":"Suwon Samsung Bluewings", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"fcseou", "name":"FC Seoul", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"jejuun", "name":"Jeju United", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"seongn", "name":"Seongnam", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"pohang", "name":"Pohang Steelers", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"guangz", "name":"Guangzhou Evergrande Taobao", "country":"cn", "goals": 1, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"shando", "name":"Shandong Luneng Taishan", "country":"cn", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"bguoan", "name":"Beijing Sinobo Guoan", "country":"cn", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"shanga", "name":"Shanghai SIPG", "country":"cn", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"suning", "name":"Jiangsu Suning", "country":"cn", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"hapber", "name":"Hapoel Be'er Sheva", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"mactel", "name":"Maccabi Tel Aviv", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"beitar", "name":"Beitar Jerusalem", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"haptel", "name":"Hapoel Tel Aviv", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"macpet", "name":"Maccabi Petah Tikva", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"machai", "name":"Maccabi Haifa", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"yehuda", "name":"Bnei Yehuda Tel Aviv", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"sakhni", "name":"Bnei Sakhnin", "country":"il", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"persep", "name":"Persepolis", "country":"ir", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"estegh", "name":"Esteghlal", "country":"ir", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"alainf", "name":"Al-Ain", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"ahlidu", "name":"Shabab Al-Ahli Dubai", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"jazira", "name":"Al Jazira Abu Dhabi", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"wadhaf", "name":"Al Wahda", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"nasrdu", "name":"Al-Nasr Dubai", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"duhail", "name":"Al-Duhail", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },  
+  {"id":"alsadd", "name":"Al Sadd", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rayyan", "name":"Al-Rayyan", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"qatarsc", "name":"Qatar SC", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"gharra", "name":"Al-Gharafa", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"ahlifc", "name":"Al-Ahli Saudi", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"alhilal", "name":"Al-Hilal", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"itihad", "name":"Al-Ittihad", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"alnasr", "name":"Al-Nassr", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"burira", "name":"Buriram United", "country":"th", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"muangth", "name":"Muangthong United", "country":"th", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"eastbe", "name":"East Bengal", "country":"in", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"dempof", "name":"Dempo SC", "country":"in", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"persip", "name":"Persipura Jayapura", "country":"id", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"persij", "name":"Persija Jakarta", "country":"id", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"qadsia", "name":"Qadsia SC", "country":"kw", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"alkuwa", "name":"Kuwait SC", "country":"kw", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"wehdat", "name":"Al-Wehdat", "country":"jo", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"jazeer", "name":"Al-Jazeera", "country":"jo", "goals": 0, "region": "asia" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"flamen", "name":"CR Flamengo", "country":"br", "goals": 1, "region": "sam", "tx":"", "scoregoals":1  , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"vascof", "name":"Vasco da Gama", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"flumin", "name":"Fluminense", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"botafo", "name":"Botafogo", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },  
+  {"id":"corint", "name":"Corinthians", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"saopau", "name":"São Paulo", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"palmei", "name":"Palmeiras", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"santos", "name":"Santos", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"gremio", "name":"Grêmio", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"interf", "name":"Internacional", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"atlemg", "name":"Atlético Mineiro", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"cruzei", "name":"Cruzeiro", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"bahiaf", "name":"Bahia", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"vitori", "name":"Vitória", "country":"br", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"bocajr", "name":"Boca Juniors", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"indepe", "name":"Independiente", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"riverp", "name":"River Plate", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"racing", "name":"Racing", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"univer", "name":"Universitario", "country":"pe", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"alianz", "name":"Alianza Lima", "country":"pe", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"boliva", "name":"Bolívar", "country":"bo", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"strong", "name":"The Strongest", "country":"bo", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"atlnac", "name":"Atlético Nacional", "country":"co", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"inmede", "name":"Independiente Medellín", "country":"co", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"olimpa", "name":"Club Olimpia", "country":"py", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"cerrop", "name":"Cerro Porteño", "country":"py", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"caraca", "name":"Caracas FC", "country":"ve", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"tachir", "name":"Deportivo Táchira", "country":"ve", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"colofc", "name":"Colo-Colo", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"unichi", "name":"Universidad de Chile", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"unicat", "name":"Universidad Católica", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"penaro", "name":"Peñarol", "country":"uy", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"naciur", "name":"Club Nacional", "country":"uy", "goals": 0, "region": "sam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"depara", "name":"Árabe Unido", "country":"pa", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"taurof", "name":"Tauro FC", "country":"pa", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"tigres", "name":"Tigres UANL", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"chivas", "name":"Chivas Guadalajara", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"toluca", "name":"Toluca", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"monter", "name":"CF Monterrey", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"toront", "name":"Toronto FC", "country":"ca", "goals": 1, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"vanwht", "name":"Vancouver Whitecaps", "country":"ca", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"impact", "name":"Montreal Impact", "country":"ca", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },  
+
+  {"id":"nyredb", "name":"New York Red Bulls", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"galaxy", "name":"LA Galaxy", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"dallas", "name":"FC Dallas", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"portti", "name":"Portland Timbers", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"seatso", "name":"Seattle Sounders", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"nycfc", "name":"New York City FC", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"hudyna", "name":"Houston Dynamo", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"spkans", "name":"Sporting Kansas City", "country":"us", "goals": 0, "region": "nam" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"rivpla", "name":"River Plate Puerto Rico", "country":"pr", "goals": 0, "region": "nam", "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"bayamo", "name":"Puerto Rico Bayamón", "country":"pr", "goals": 0, "region": "nam", "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"alahly", "name":"Al Ahly SC", "country":"eg", "goals": 1, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"zamale", "name":"Zamalek SC", "country":"eg", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+
+  {"id":"hilals", "name":"Al-Hilal Omdurman", "country":"sd", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"esptun", "name":"Espérance Sportive de Tunis", "country":"tn", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"etosah", "name":"Étoile Sportive du Sahel", "country":"tn", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"wydadc", "name":"Wydad Casablanca", "country":"ma", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"rajacb", "name":"Raja Casablanca", "country":"ma", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },  
+
+  {"id":"mazemb", "name":"TP Mazembe", "country":"cd", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"priago", "name":"Primeiro de Agosto", "country":"ao", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"libolo", "name":"Recreativo do Libolo", "country":"ao", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  
+  {"id":"mamelo", "name":"Mamelodi Sundowns", "country":"za", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false },
+  {"id":"kaiser", "name":"Kaizer Chiefs", "country":"za", "goals": 0, "region": "afr" , "tx":"0x0", "blrtx":"0x0", "blr":0, "claim":true, "claimmsg":false }
+  
+]  
+

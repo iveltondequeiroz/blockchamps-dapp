@@ -1,0 +1,12 @@
+[ 
+      { "key": "br", "value": "br", "flag": "br", "text": "Brazil" },
+      { "key": "ar", "value": "ar", "flag": "ar", "text": "Argentina" },
+      { "key": "bo", "value": "bo", "flag": "bo", "text": "Bolivia" },
+      { "key": "cl", "value": "cl", "flag": "cl", "text": "Chile" },
+      { "key": "co", "value": "co", "flag": "co", "text": "Colombia" },
+      { "key": "py", "value": "py", "flag": "py", "text": "Paraguay" },
+      { "key": "pe", "value": "pe", "flag": "pe", "text": "Peru" },
+      { "key": "uy", "value": "uy", "flag": "uy", "text": "Uruguay" },
+      { "key": "ve", "value": "ve", "flag": "ve", "text": "Venezuela" }   
+]
+

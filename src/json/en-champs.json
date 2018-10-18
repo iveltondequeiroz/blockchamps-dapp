@@ -1,0 +1,34 @@
+[  
+  { 
+    "champs": {
+      "worldTitle": "2018 CRYPTO-WORLD CHAMPIONSHIP",
+      "eurTitle": "2018 CRYPTO-EUROPE CHAMPIONSHIP",
+      "samTitle": "2018 CRYPTO-SOUTH AMERICA CHAMPIONSHIP",
+      "namTitle": "2018 CRYPTO-NORTH AMERICA CHAMPIONSHIP",
+      "asiaTitle": "2018 CRYPTO-ASIA CHAMPIONSHIP",
+      "ausTitle": "2018 CRYPTO-OCEANIA CHAMPIONSHIP",
+      "afrTitle": "2018 CRYPTO-AFRICA CHAMPIONSHIP",
+      "chooseRegion": "Choose Region",
+      "selCountry": "Select Country",
+      "countryLabel": "Country",    
+      "selClub1": "Find your club and score goals",
+      "selClub2": "Support your team all the way to the Top",
+      "loading": "Loading ",
+      "daysLeft": "Days left until end ",
+      "clubs" : "Clubs",
+      "goalsScored" : "Goals Scored",
+      "leaderTitle" : "LEADER",
+      "goals": "GOALS",
+      "scoreGoals": "Score Goals",
+      "receiveTitle": "Youl'll receive back ",
+      "woohoo": "Woo-hoo!!! Goals Scored. Verify transaction ",
+      "claimtoken": "Claim your ",
+      "claimmsg": "Claiming tokens, please wait...",
+      "now": " now ",
+      "transfered": "transfered. Verify transaction "
+      
+
+    }
+  }  
+]
+

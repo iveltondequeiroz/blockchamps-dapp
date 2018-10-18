@@ -1,0 +1,110 @@
+[
+  {"id":"rbsalz", "name":"Salzburg", "country":"at", "goals": 1,  "region": "eur" },
+  {"id":"rapidw", "name":"Rapid Wien", "country":"at", "goals": 0,  "region": "eur" },
+
+  {"id":"saraje", "name":"Sarajevo", "country":"ba", "goals": 0,  "region": "eur" },
+  {"id":"zeljez", "name":"Zeljeznicar", "country":"ba", "goals": 0,  "region": "eur" },
+  {"id":"zrinjs", "name":"Zrinjski Mostar", "country":"ba", "goals": 0,  "region": "eur" },
+  {"id":"siroki", "name":"Siroki Brijeg", "country":"ba", "goals": 0,  "region": "eur" },
+
+  {"id":"brugge", "name":"Brugge KV", "country":"be", "goals": 0,  "region": "eur" },
+  {"id":"anderl", "name":"Anderlecht", "country":"be", "goals": 0,  "region": "eur" },
+  {"id":"gentka", "name":"Gent", "country":"be", "goals": 0,  "region": "eur" },
+  {"id":"sliege", "name":"Standard Liege", "country":"be", "goals": 0,  "region": "eur" },
+  {"id":"genkkr", "name":"Genk KRC", "country":"be", "goals": 0,  "region": "eur" },
+
+  {"id":"ludogo", "name":"Ludogorets Razgrad", "country":"bg", "goals": 0,  "region": "eur" },
+  {"id":"cskaso", "name":"CSKA Sofia", "country":"bg", "goals": 0,  "region": "eur" },
+  {"id":"levski", "name":"Levski Sofia", "country":"bg", "goals": 0,  "region": "eur" },
+  {"id":"litexs", "name":"Litex Lovech", "country":"bg", "goals": 0,  "region": "eur" },
+  
+  {"id":"baself", "name":"Basel", "country":"ch", "goals": 0, "region": "eur" },
+  {"id":"youngb", "name":"Young Boys", "country":"ch", "goals": 0, "region": "eur" },
+  {"id":"grassh", "name":"Grasshopper", "country":"ch", "goals": 0, "region": "eur" },
+  {"id":"luzern", "name":"Luzern", "country":"ch", "goals": 0, "region": "eur" },
+  {"id":"zurich", "name":"Zürich", "country":"ch", "goals": 0, "region": "eur" },
+  
+  {"id":"sparta", "name":"Sparta Prague", "country":"cz", "goals": 0,  "region": "eur" },
+  {"id":"slapra", "name":"Slavia Prague", "country":"cz", "goals": 0,  "region": "eur" },
+  {"id":"slovan", "name":"Slovan Liberec", "country":"cz", "goals": 0,  "region": "eur" },
+  {"id":"viktor", "name":"Viktoria Plzeň", "country":"cz", "goals": 0,  "region": "eur" },
+  
+  {"id":"bayern", "name":"Bayern Munich", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"schalk", "name":"Schalke 04", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"boruss", "name":"Borussia Dortmund", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"cologn", "name":"FC Köln", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"hoffen", "name":"Hoffenheim", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"stuttg", "name":"VfB Stuttgart", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"leverk", "name":"Bayer 04 Leverkusen", "country":"de", "goals": 0,  "region": "eur" },
+  {"id":"werder", "name":"Werder Bremen", "country":"de", "goals": 0,  "region": "eur" },
+  
+  {"id":"kobenh", "name":"Copenhagen", "country":"dk", "goals": 0,  "region": "eur" },
+  {"id":"brondb", "name":"Brøndby", "country":"dk", "goals": 0,  "region": "eur" },
+  {"id":"midtjy", "name":"Midtjylland", "country":"dk", "goals": 0,  "region": "eur" },
+  {"id":"nordsj", "name":"Nordsjælland", "country":"dk", "goals": 0,  "region": "eur" },
+
+  {"id":"realma", "name":"Real Madrid", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"barcel", "name":"Barcelona", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"atlmad", "name":"Atlético Madrid", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"sevill", "name":"Sevilla", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"valenc", "name":"Valencia", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"rbetis", "name":"Real Betis", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"vilare", "name":"Villarreal", "country":"es", "goals": 0,  "region": "eur" },
+  {"id":"realso", "name":"Real Sociedad", "country":"es", "goals": 0,  "region": "eur" },
+ 
+  {"id":"hjkhel", "name":"HJK Helsinki", "country":"fi", "goals": 0,  "region": "eur" },
+  {"id":"kupsfc", "name":"KuPS", "country":"fi", "goals": 0,  "region": "eur" },
+  {"id":"lahtif", "name":"Lahti", "country":"fi", "goals": 0,  "region": "eur" },
+  {"id":"seinaj", "name":"Seinäjoen", "country":"fi", "goals": 0,  "region": "eur" },
+  
+  {"id":"pstger", "name":"Paris Saint-Germain", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"marsei", "name":"Olympique de Marseille", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"lyonfc", "name":"Lyon", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"etiene", "name":"Saint-Étienne", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"monaco", "name":"Monaco", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"bordeau", "name":"Girondins de Bordeaux", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"rennai", "name":"Stade Rennais", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"nicefc", "name":"OGC Nice", "country":"fr", "goals": 0,  "region": "eur" },
+  {"id":"nantes", "name":"Nantes", "country":"fr", "goals": 0,  "region": "eur" },
+ 
+  {"id":"manche", "name":"Manchester United", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"chelse", "name":"Chelsea", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"arsena", "name":"Arsenal", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"liverp", "name":"Liverpool", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"mancty", "name":"Manchester City", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"totten", "name":"Tottenham Hotspur", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"leices", "name":"Leicester City", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"wstham", "name":"West Ham", "country":"gb", "goals": 0,  "region": "eur" },
+  {"id":"everto", "name":"Everton", "country":"gb", "goals": 0,  "region": "eur" },
+
+  {"id":"celtic", "name":"Celtic", "country":"gbsct", "goals": 0, "region": "eur" },
+  {"id":"ranger", "name":"Rangers", "country":"gbsct", "goals": 0, "region": "eur" },
+ 
+  {"id":"saints", "name":"The New Saints", "country":"gbwls", "goals": 0, "region": "eur" },
+  {"id":"bangor", "name":"Bangor City", "country":"gbwls", "goals": 0, "region": "eur" },
+  {"id":"balato", "name":"Bala Town", "country":"gbwls", "goals": 0, "region": "eur" },
+  
+  {"id":"olympi", "name":"Olympiacos", "country":"gr", "goals": 0,  "region": "eur" },
+  {"id":"panath", "name":"Panathinaikos FC", "country":"gr", "goals": 0,  "region": "eur" },
+  {"id":"paokth", "name":"PAOK FC", "country":"gr", "goals": 0,  "region": "eur" },
+  {"id":"aekath", "name":"AEK Athens FC", "country":"gr", "goals": 0,  "region": "eur" },
+  
+  {"id":"dinaza", "name":"Dinamo Zagreb", "country":"hr", "goals": 0,  "region": "eur" },
+  {"id":"rijeka", "name":"Rijeka", "country":"hr", "goals": 0,  "region": "eur" },
+  {"id":"hajduk", "name":"Hajduk Split", "country":"hr", "goals": 0,  "region": "eur" },
+  
+  {"id":"ferenc", "name":"Ferencváros", "country":"hu", "goals": 0,  "region": "eur" },
+  {"id":"videot", "name":"Videoton FC", "country":"hu", "goals": 0,  "region": "eur" },
+  {"id":"gyorie", "name":"Győri ETO FC", "country":"hu", "goals": 0,  "region": "eur" },
+  {"id":"debrec", "name":"Debrecen", "country":"hu", "goals": 0,  "region": "eur" },
+  
+  {"id":"dundal", "name":"Dundalk", "country":"ie", "goals": 0,  "region": "eur" },
+  {"id":"corkct", "name":"Cork City", "country":"ie", "goals": 0,  "region": "eur" },
+  {"id":"shamro", "name":"Shamrock Rovers", "country":"ie", "goals": 0,  "region": "eur" },
+  {"id":"stpatr", "name":"St Patrick's", "country":"ie", "goals": 0,  "region": "eur" },
+  
+  {"id":"istanb", "name":"İstanbul Başakşehir", "country":"tr", "goals": 0, "region": "eur" }
+  
+   
+]
+

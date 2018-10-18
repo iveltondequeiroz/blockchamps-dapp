@@ -1,0 +1,22 @@
+[  
+  { 
+    "howto": {
+      "title": "COMO MARCAR CRYPTO GOLS",
+      "language": "Idioma",
+      "obs": "* Obs:Você precisará estar logado na sua conta do Metamask para marcar gols com sucesso.",
+      "step1": "1. Após os clubes serem carregados do blockchain, o líder atual será apresentado...",
+      "step1b": "Seguido pelo Top 40 clubes ranqueados",
+      "step1c": "Você também pode encontrar o seu clube selecionando Região/País na parte superior da página ",
+      "step2": "2.Encontre seu time e selecione a quantidade de Gols para marcar seu clube.",
+      "step3": "3. E clique no botão 'Marcar Gols'. Uma janela do Metamask aparecerá, confirme clickando no botão 'Send'.",
+      "step5": "4. Aguarde a transação ser minerada. Quando for bem-sucedida, um link de confirmação será exibido",
+      "step5b": "E seu clube subirá 'n' posições correspondentes aos gols marcados.",
+      "step6": "Você pode verificar a transação clicando no botão link 'Gols marcados '",
+      "step7": "5. Você pode reivindicar suas moedas clicando no botão 'Reivindicar Boleiros (disponível quando você marcar mais que 1 gol) '",
+      "step8": "Metamask aparecerá novamente, confirmar transação para receber seus Boleiros",
+      "step9": "Um link de confirmação também estará disponível quando as moedas forem transferidas.",
+      "step10": "** PARABÉNS  **",
+      "step11": "SEU CLUBE ESTÁ INDO AO TOPO DO MUNDO"
+    }  
+  }  
+]

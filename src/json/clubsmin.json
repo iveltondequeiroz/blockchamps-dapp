@@ -1,0 +1,254 @@
+[
+  {"id":"rbsalz", "name":"Salzburg", "country":"at", "goals": 1,  "region": "eur", "tx":"0x", "scoregoals":1 , "tx":"0x", "scoregoals":1 },
+  {"id":"rapidw", "name":"Rapid Wien", "country":"at", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"saraje", "name":"Sarajevo", "country":"ba", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"zeljez", "name":"Zeljeznicar", "country":"ba", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"brugge", "name":"Brugge KV", "country":"be", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"anderl", "name":"Anderlecht", "country":"be", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"ludogo", "name":"Ludogorets Razgrad", "country":"bg", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"cskaso", "name":"CSKA Sofia", "country":"bg", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"baself", "name":"Basel", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"youngb", "name":"Young Boys", "country":"ch", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"sparta", "name":"Sparta Prague", "country":"cz", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"slapra", "name":"Slavia Prague", "country":"cz", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"bayern", "name":"Bayern Munich", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"schalk", "name":"Schalke 04", "country":"de", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"kobenh", "name":"Copenhagen", "country":"dk", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"brondb", "name":"Brøndby", "country":"dk", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"realma", "name":"Real Madrid", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"barcel", "name":"Barcelona", "country":"es", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"hjkhel", "name":"HJK Helsinki", "country":"fi", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"kupsfc", "name":"KuPS", "country":"fi", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"pstger", "name":"Paris Saint-Germain", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"marsei", "name":"Olympique de Marseille", "country":"fr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"manche", "name":"Manchester United", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"chelse", "name":"Chelsea", "country":"gb", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"celtic", "name":"Celtic", "country":"gbsct", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"ranger", "name":"Rangers", "country":"gbsct", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"saints", "name":"The New Saints", "country":"gbwls", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"bangor", "name":"Bangor City", "country":"gbwls", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"olympi", "name":"Olympiacos", "country":"gr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"panath", "name":"Panathinaikos FC", "country":"gr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"dinaza", "name":"Dinamo Zagreb", "country":"hr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"rijeka", "name":"Rijeka", "country":"hr", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"ferenc", "name":"Ferencváros", "country":"hu", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"videot", "name":"Videoton FC", "country":"hu", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"dundal", "name":"Dundalk", "country":"ie", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"corkct", "name":"Cork City", "country":"ie", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"stjarn", "name":"Stjarnan", "country":"is", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"hafnar", "name":"Hafnarfjordur", "country":"is", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"juvent", "name":"Juventus", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"milanf", "name":"AC Milan", "country":"it", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"zalgir", "name":"Žalgiris", "country":"lt", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"trakai", "name":"Trakai", "country":"lt", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"differ", "name":"Differdange 03", "country":"lu", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"dudela", "name":"F91 Dudelange", "country":"lu", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"buducn", "name":"Budućnost Podgorica", "country":"me", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"sutjes", "name":"Sutjeska Nikšić", "country":"me", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"vardar", "name":"Vardar", "country":"mk", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"shkend", "name":"Shkëndija", "country":"mk", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"sliema", "name":"Sliema Wanderers", "country":"mt", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"floria", "name":"Floriana", "country":"mt", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"psvein", "name":"PSV Eindhoven", "country":"nl", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"ajaxam", "name":"Ajax", "country":"nl", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"rosenb", "name":"Rosenborg ", "country":"no", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"moldef", "name":"Molde ", "country":"no", "goals": 0,  "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"legiaw", "name":"Legia Warsaw", "country":"pl", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"lechpo", "name":"Lech Poznań", "country":"pl", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"benfic", "name":"Benfica", "country":"pt", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"sporti", "name":"Sporting", "country":"pt", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"steaua", "name":"Steaua București", "country":"ro", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"dinamo", "name":"Dinamo București", "country":"ro", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"partiz", "name":"Partizan", "country":"rs", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"redsta", "name":"Red Star Belgrade", "country":"rs", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"zenith", "name":"Zenit Saint Petersburg", "country":"ru", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"cskafc", "name":"CSKA Moscow", "country":"ru", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"aikfot", "name":"AIK", "country":"se", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"malmof", "name":"Malmö", "country":"se", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"maribo", "name":"Maribor", "country":"si", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"gorica", "name":"Gorica", "country":"si", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"slobra", "name":"Slovan Bratislava", "country":"sk", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"spartt", "name":"Spartak Trnava", "country":"sk", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"besikt", "name":"Beşiktaş", "country":"tr", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"fenerb", "name":"Fenerbahçe", "country":"tr", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"dynamo", "name":"Dynamo Kyiv", "country":"ua", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"shakht", "name":"Shakhtar Donetsk", "country":"ua", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"apoelf", "name":"Apoel FC", "country":"cy", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  {"id":"apollo", "name":"Apollon Limassol", "country":"cy", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"sherif", "name":"Sheriff", "country":"md", "goals": 0, "region": "eur" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"alainf", "name":"Al-Ain", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"ahlidu", "name":"Shabab Al-Ahli Dubai", "country":"ae", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"guangz", "name":"Guangzhou Evergrande Taobao", "country":"cn", "goals": 1, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"shando", "name":"Shandong Luneng Taishan", "country":"cn", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"persip", "name":"Persipura Jayapura", "country":"id", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"persij", "name":"Persija Jakarta", "country":"id", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"hapber", "name":"Hapoel Be'er Sheva", "country":"il", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"mactel", "name":"Maccabi Tel Aviv", "country":"il", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"persep", "name":"Persepolis", "country":"ir", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"sepaha", "name":"Sepahan", "country":"ir", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"wehdat", "name":"Al-Wehdat", "country":"jo", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"jazeer", "name":"Al-Jazeera", "country":"jo", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"kashima", "name":"Kashima Antlers", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"fronta", "name":"Kawasaki Frontale", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"jeonbu", "name":"Jeonbuk Hyundai Motors", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"bluewi", "name":"Suwon Samsung Bluewings", "country":"kr", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"qadsia", "name":"Qadsia SC", "country":"kw", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"alkuwa", "name":"Kuwait SC", "country":"kw", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"duhail", "name":"Al-Duhail", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },  
+  {"id":"alsadd", "name":"Al Sadd", "country":"qa", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"ahlifc", "name":"Al-Ahli Saudi", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"alhilal", "name":"Al-Hilal", "country":"sa", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"burira", "name":"Buriram United", "country":"th", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"muangth", "name":"Muangthong United", "country":"th", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"pahkta", "name":"Pakhtakor Tashkent", "country":"uz", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  {"id":"nasaff", "name":"Nasaf", "country":"uz", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"bocajr", "name":"Boca Juniors", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"riverp", "name":"River Plate", "country":"ar", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"boliva", "name":"Bolívar", "country":"bo", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"strong", "name":"The Strongest", "country":"bo", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"flamen", "name":"CR Flamengo", "country":"br", "goals": 1, "region": "sam", "tx":"0x", "scoregoals":1 },
+  {"id":"vascof", "name":"Vasco da Gama", "country":"br", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"colofc", "name":"Colo-Colo", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"unichi", "name":"Universidad de Chile", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"unicat", "name":"Universidad Católica", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"sanwan", "name":"Santiago Wanderers", "country":"cl", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"atlnac", "name":"Atlético Nacional", "country":"co", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"inmede", "name":"Independiente Medellín", "country":"co", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"barcsc", "name":"Barcelona SC", "country":"ec", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"emelec", "name":"Emelec", "country":"ec", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"univer", "name":"Universitario", "country":"pe", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"alianz", "name":"Alianza Lima", "country":"pe", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"olimpa", "name":"Club Olimpia", "country":"py", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"cerrop", "name":"Cerro Porteño", "country":"py", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"penaro", "name":"Peñarol", "country":"uy", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"naciur", "name":"Club Nacional", "country":"uy", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"caraca", "name":"Caracas FC", "country":"ve", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },
+  {"id":"tachir", "name":"Deportivo Táchira", "country":"ve", "goals": 0, "region": "sam" , "tx":"0x", "scoregoals":1 },  
+  
+  {"id":"toront", "name":"Toronto FC", "country":"ca", "goals": 1, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"impact", "name":"Montreal Impact", "country":"ca", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },  
+  
+  {"id":"galaxy", "name":"LA Galaxy", "country":"us", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"portti", "name":"Portland Timbers", "country":"us", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"tigres", "name":"Tigres UANL", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"chivas", "name":"Chivas Guadalajara", "country":"mx", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"heredi", "name":"Herediano", "country":"cr", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"sapris", "name":"Saprissa", "country":"cr", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"depoli", "name":"Deportivo Olimpia", "country":"hn", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"motagu", "name":"Motagua", "country":"hn", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"portmo", "name":"Portmore United", "country":"jm", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"arnett", "name":"Arnett Gardens", "country":"jm", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"monteg", "name":"Montego Bay United", "country":"jm", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"depara", "name":"Árabe Unido", "country":"pa", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"taurof", "name":"Tauro FC", "country":"pa", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"rivpla", "name":"River Plate Puerto Rico", "country":"pr", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"bayamo", "name":"Puerto Rico Bayamón", "country":"pr", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"alians", "name":"Alianza", "country":"sv", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  {"id":"cdfasf", "name":"FAS", "country":"sv", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"sydney", "name":"Sydney FC", "country":"au", "goals": 1, "region": "aus" , "tx":"0x", "scoregoals":1 },
+  {"id":"melvic", "name":"Melbourne Victory", "country":"au", "goals": 0, "region": "aus" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"auccty", "name":"Auckland City", "country":"nz", "goals": 0, "region": "aus" , "tx":"0x", "scoregoals":1 },
+  {"id":"teamwe", "name":"Team Wellington", "country":"nz", "goals": 0, "region": "aus" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"priago", "name":"Primeiro de Agosto", "country":"ao", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"libolo", "name":"Recreativo do Libolo", "country":"ao", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"mazemb", "name":"TP Mazembe", "country":"cd", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"vitacl", "name":"Vita Club", "country":"cd", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"alahly", "name":"Al Ahly SC", "country":"eg", "goals": 1, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"zamale", "name":"Zamalek SC", "country":"eg", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"esptun", "name":"Espérance Sportive de Tunis", "country":"tn", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"etosah", "name":"Étoile Sportive du Sahel", "country":"tn", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },  
+
+  {"id":"kotoko", "name":"Asante Kotoko", "country":"gh", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"ashant", "name":"Ashanti Gold", "country":"gh", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"wydadc", "name":"Wydad Casablanca", "country":"ma", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"asfarc", "name":"Far Rabat", "country":"ma", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+     
+  {"id":"hilals", "name":"Al-Hilal Omdurman", "country":"sd", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"merrik", "name":"Al-Merrikh", "country":"sd", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },  
+
+  {"id":"diaraf", "name":"Diaraf", "country":"sn", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"douanes", "name":"Douanes ", "country":"sn", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },  
+
+  {"id":"mamelo", "name":"Mamelodi Sundowns", "country":"za", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+  {"id":"kaiser", "name":"Kaizer Chiefs", "country":"za", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },
+
+  {"id":"dynazi", "name":"Dynamos FC", "country":"zw", "goals": 0, "region": "afr" , "tx":"0x", "scoregoals":1 },  
+  {"id":"highzi", "name":"Highlanders FC", "country":"zw", "goals": 0, "region": "afr", "tx":"0x", "scoregoals":1 }
+   
+]
+

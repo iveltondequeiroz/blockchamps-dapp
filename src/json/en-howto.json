@@ -1,0 +1,23 @@
+[  
+  { 
+    "howto": {
+      "title": "HOW TO SCORE CRYPTO-GOALS",
+      "language": "Language",
+      "obs": "* Obs: You will need to be logged on Metamask to score goals successfully.",
+      "step1": "1. Once the clubs are loaded from blockchain, the current leader will be presented...",
+      "step1b": "Followed by the Top 40 ranked Clubs",
+      "step1c": "You can also find your club by selecting Region/Country on the top of page",
+      "step2": "2. Find your team and select the quantity of Goals to Score for your Club",
+      "step3": "3. And click on 'Score Goals' Button. A Metamask window will pop up. Confirm by clicking on 'Submit' Button.",
+      "step5": "4. Wait for the transaction to be mined. When it succeeded, a confirmation link will be displayed",
+      "step5b": "And your club will go up 'n' positions matching the goals you scored.",
+      "step6": "You can verify the transaction by clicking on the link 'Goals Scored'",
+      "step7": "5. You can claim your Boleiro coins by clicking on 'Claim Your Boleiros' Button (available when you score more than 1 goal)",
+      "step8": "Metamask will pop again, confirm transaction to receive your Boleiros",
+      "step9": "Also a confirmation link will be available when Boleiro coins are transfered.",
+      "step10": "** CONGRATULATIONS **",
+      "step11": "YOUR CLUB IS GOING TO THE TOP OF THE WORLD"
+    }  
+  }  
+]
+

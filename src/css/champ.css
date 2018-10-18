@@ -1,0 +1,22 @@
+.imgframe {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  padding-top: 1px;
+}
+
+.imgbottom {
+  position: absolute;
+    left: 0px;
+    top: 50px;
+    z-index: 1;
+}
+
+.imgtop {
+  position: absolute;
+    left: 0px;
+    top: -50px;
+    z-index: 2;
+}
+
+

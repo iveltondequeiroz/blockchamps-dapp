@@ -1,0 +1,16 @@
+[  
+  { "key": "jp", "value": "jp", "flag": "jp", "text": "Japan" },
+  { "key": "kr", "value": "kr", "flag": "kr", "text": "South Korea" },
+  { "key": "cn", "value": "cn", "flag": "cn", "text": "China" },
+  { "key": "il", "value": "il", "flag": "il", "text": "Israel" },
+  { "key": "ir", "value": "ir", "flag": "ir", "text": "Iran" },
+  { "key": "ae", "value": "ae", "flag": "ae", "text": "United Arab Emirates" },  
+  { "key": "qa", "value": "qa", "flag": "qa", "text": "Qatar" },
+  { "key": "sa", "value": "sa", "flag": "sa", "text": "Saudi Arabia" },
+  { "key": "th", "value": "th", "flag": "th", "text": "Thailand" },
+  { "key": "in", "value": "in", "flag": "in", "text": "India" },
+  { "key": "id", "value": "id", "flag": "id", "text": "Indonesia" },
+  { "key": "kw", "value": "kw", "flag": "kw", "text": "Kuwait" },
+  { "key": "jo", "value": "jo", "flag": "jo", "text": "Jordan" }
+]
+

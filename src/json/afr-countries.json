@@ -1,0 +1,10 @@
+[  
+  { "key": "eg", "value": "eg", "flag": "eg", "text": "Egypt" },
+  { "key": "tn", "value": "tn", "flag": "tn", "text": "Tunisia" },
+  { "key": "ma", "value": "ma", "flag": "ma", "text": "Morocco" },
+  { "key": "cd", "value": "cd", "flag": "cd", "text": "DR Congo" },
+  { "key": "ao", "value": "ao", "flag": "ao", "text": "Angola" },
+  { "key": "za", "value": "za", "flag": "za", "text": "South Africa" },
+  { "key": "sd", "value": "sd", "flag": "sd", "text": "Sudan" }
+]
+

@@ -1,0 +1,33 @@
+[  
+  { 
+    "champs": {
+      "worldTitle": "CAMPEONATO CRYPTO-MUNDIAL 2018",
+      "eurTitle": "CAMPEONATO CRYPTO-EUROPEU 2018",
+      "samTitle": "CAMPEONATO CRYPTO-AMERICA DO SUL 2018",
+      "namTitle": "CAMPEONATO CRYPTO-AMERICA DO NORTE 2018",
+      "asiaTitle": "CAMPEONATO CRYPTO-ASIA 2018",
+      "ausTitle": "CAMPEONATO CRYPTO-OCEANIA 2018",
+      "afrTitle": "CAMPEONATO CRYPTO-AFRICA 2018",
+      "chooseRegion": "Escolha a Região",
+      "selCountry": "Selecione o País",
+      "countryLabel": "País",
+      "selClub1": "Encontre seu time e marque Gols",
+      "selClub2": "Apoie seu time até o Topo",
+      "loading": "carregando ",
+      "daysLeft": "Dias restantes",
+      "clubs" : "Clubes",
+      "goalsScored" : "Gols Marcados",
+      "leaderTitle" : "LÍDER",
+      "goals": "GOLS",
+      "scoreGoals": "Marque Gols",
+      "receiveTitle": "Você receberá de volta ",
+      "woohoo": "Parabéns, Gols Marcados. Verifique transação ",
+      "claimtoken": "Resgate seus ",
+      "claimmsg": "Transferindo moedas, por favor espere...",
+      "now": " agora ",
+      "transfered": "transferidos. Verifique transação "
+      
+    }
+  }  
+]
+

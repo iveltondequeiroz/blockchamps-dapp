@@ -1,0 +1,22 @@
+[  
+  { 
+    "howto": {
+      "title": "CÓMO CALIFICAR CRYPTO GOLES",
+      "language": "Idioma",
+      "obs": "* Obs:Tendrás que iniciar sesión Metamask para marcar goles con éxito",
+      "step1": "1.  Una vez que los clubes estén cargados desde blockchain, se presentará el líder actual...",
+      "step1b": "Seguido por los 40 mejores clubes clasificados",
+      "step1c": "También puede encontrar su club seleccionando Región/País en la parte superior de la página. ",
+      "step2": "2. Encuentre su equipo y seleccione la cantidad de Metas a Anotar para su club.",
+      "step3": "3. Y haga clic en el botón 'Pontuar Goles'.Una ventana Metamask aparecerá. Confirme haciendo clic en el botón 'Send'.",
+      "step5": "4. Espere a que se mine la transacción. Cuando haya tenido éxito, se mostrará un enlace de confirmación",
+      "step5b": "Y su club irá a 'n' posiciones que  coincidan  con los goles que obtuvo.",
+      "step6": "Puede verificar la transacción haciendo clic en enlace 'Goles anotados '",
+      "step7": "5. Puedes reclamar  tus monedas de Boleiro haciendo clic en el botón 'Reclamar tus Boleiros' (disponible cuando puntúes mas de  1 gol) '",
+      "step8": "Metamask volverá a aparecer, confirmará la transacción para recibir tus Boleiros,",
+      "step9": " También habrá un enlance de confirmación cuando se transfieram las monedas de Boleiro.",
+      "step10": "** FELICITACIONES  **",
+      "step11": "SU CLUB VA A LA CIMA  DEL MUNDO"
+    }  
+  }  
+]

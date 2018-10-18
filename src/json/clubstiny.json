@@ -1,0 +1,13 @@
+[
+  {"id":"kashima", "name":"Kashima Antlers", "country":"jp", "goals": 0, "region": "asia" , "tx":"0x", "scoregoals":1 },
+  
+  {"id":"flamen", "name":"CR Flamengo", "country":"br", "goals": 1, "region": "sam", "tx":"0x", "scoregoals":1 },
+  
+  
+  {"id":"galaxy", "name":"LA Galaxy", "country":"us", "goals": 0, "region": "nam" , "tx":"0x", "scoregoals":1 },
+ 
+  {"id":"sydney", "name":"Sydney FC", "country":"au", "goals": 1, "region": "aus" , "tx":"0x", "scoregoals":1 },
+  {"id":"alahly", "name":"Al Ahly SC", "country":"eg", "goals": 1, "region": "afr" , "tx":"0x", "scoregoals":1 }
+     
+]
+
